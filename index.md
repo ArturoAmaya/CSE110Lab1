@@ -7,7 +7,7 @@ This is a picture of my cat:
 
 Here's another picture of my cat:
 
-[Mapalé being surprised](IMG_3804.JPG)
+[!Mapalé being surprised](IMG_3804.JPG)
 
 His name is Mapalé.
 
