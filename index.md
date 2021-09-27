@@ -36,9 +36,11 @@ Speaking of, my 5 favorite sitcoms are:
 2. Friends
 3. Ted Lasso:
     The 
-    >oops, init
+    >oops, innit
+
     >well said 
-    exchange is so funny to me. 
+
+    exchange is so [funny](https://www.reddit.com/r/TedLasso/comments/k4sxmx/best_character_arc/) to me. You should watch Ted Lasso.
 4. Seinfeld
 5. Brooklyn Nine-Nine
 
