@@ -40,7 +40,7 @@ Speaking of, my 5 favorite sitcoms are:
 
     >well said 
 
-    exchange is so [funny](https://www.reddit.com/r/TedLasso/comments/k4sxmx/best_character_arc/) to me. You should watch Ted Lasso.
+    [exchange](https://www.reddit.com/r/TedLasso/comments/k4sxmx/best_character_arc/) is so funny to me. You should watch Ted Lasso.
 4. Seinfeld
 5. Brooklyn Nine-Nine
 
