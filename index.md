@@ -21,7 +21,7 @@ His name is Mapalé and he's an absolute cutie.
 #### A little about me:
 I've lived in Virginia, Mexico and Colombia, so the answer to the question "*Where are you from*?" is a long one. However, the answer to the question "*what do you want to do once you graduate?*" is a short one - I have **no** idea.
 
-Over the past year I haven't really coded all that much aside from a set of PHP database programs. I didn't like sitting down for several hours to write code when I was already inside all day trying to not contract COVID. That's partly why I've waited so long to take this class.*
+Over the past year I haven't really coded all that much aside from a set of PHP database programs. Learning PHP was interesting - I had no idea it used an `=`, `==` and `===`. I didn't like sitting down for several hours to write code when I was already inside all day trying to not contract COVID. That's partly why I've waited so long to take this class.*
 
 Actually, I kind of lost interest in a lot of things while at home. It's really nice to be near campus meeting new people and all that. :) Hopefully I can regain some if not all of my enjoyment for coding now that we're back.
 
@@ -35,7 +35,7 @@ craft beers - specifically super bitter IPAs*
 really dumb jokes and standup comedy
 playing smash
 bad movies*
-sitcoms, for some reason
+sitcoms
 
 Speaking of, my 5 favorite sitcoms are:
 Futurama
@@ -48,4 +48,6 @@ Some things I want to try during this quarter:
 learn to ride a skateboard
 learn to ride a onewheel
 make my own kombucha and beer
+surf club!
+
 
