@@ -1,12 +1,6 @@
 # Hi! 
 I'm Arturo Amaya*. I'm 21. I'm a Computer Engineering major here at UCSD. 
 
-Sections of this document:
-Cat pics
-About
-Some stuff I like
-Some stuff I want to try
-
 #### Have a free cat picture first:
 This is a picture of my cat:
 
@@ -27,27 +21,31 @@ Actually, I kind of lost interest in a lot of things while at home. It's really 
 
 #### I still like some things
 Some (but not all) of the things I still enjoy are:
-watching football (the not-American kind)*.
-watching football analysis videos from [Tifo Football](https://www.youtube.com/channel/UCGYYNGmyhZ_kwBF_lqqXdAQ) and Jordan Klepper videos like [this one](https://www.youtube.com/watch?v=I6H7urz-HgA). 
-swimming
-~~not spraining my medial ligament~~ walking
-craft beers - specifically super bitter IPAs*
-really dumb jokes and standup comedy
-playing smash
-bad movies*
-sitcoms
+- watching football (the not-American kind)*.
+- watching football analysis videos from [Tifo Football](https://www.youtube.com/channel/UCGYYNGmyhZ_kwBF_lqqXdAQ) and Jordan Klepper videos like [this one](https://www.youtube.com/watch?v=I6H7urz-HgA). 
+- swimming
+- ~~not spraining my medial ligament~~ walking
+- craft beers - specifically super bitter IPAs*
+- really dumb jokes and standup comedy
+- playing smash
+- bad movies*
+- sitcoms
 
 Speaking of, my 5 favorite sitcoms are:
-Futurama
-Friends
-Ted Lasso
-Seinfeld
-Brooklyn Nine-Nine
+1. Futurama
+2. Friends
+3. Ted Lasso:
+    The 
+    >oops, init
+    >well said 
+    exchange is so funny to me. 
+4. Seinfeld
+5. Brooklyn Nine-Nine
 
-Some things I want to try during this quarter:
-learn to ride a skateboard
-learn to ride a onewheel
-make my own kombucha and beer
-surf club!
-
+#### Some things I want to try during this quarter:
+- [x] learn to ride a skateboard
+- [x] learn to ride a onewheel
+- [ ] make my own kombucha and beer
+- [ ] surf club!
+- [ ] a calendar tool for webreg
 
