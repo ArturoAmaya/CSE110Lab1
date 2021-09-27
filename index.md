@@ -1,7 +1,7 @@
 # Hi! 
 I'm Arturo Amaya. I'm 21. I'm a Computer Engineering major here at UCSD. 
 
-#### Have a free cat picture first:
+## Have a free cat picture first:
 This is a picture of my cat:
 
 ![Mapalé being cute](1956a31a-7fee-4a61-98c9-283a36ebf2f2.jpg)
@@ -12,14 +12,14 @@ Here's another picture of my cat:
 
 His name is Mapalé and he's an absolute cutie.
 
-#### A little about me:
+## A little about me:
 I've lived in Virginia, Mexico and Colombia, so the answer to the question "*Where are you from*?" is a long one. However, the answer to the question "*what do you want to do once you graduate?*" is a short one - I have **no** idea.
 
 Over the past year I haven't really coded all that much aside from a set of PHP database programs. Learning PHP was interesting - I had no idea it used an `=`, `==` *and* `===`. I didn't like sitting down for several hours to write code when I was already inside all day trying to not contract COVID. That's partly why I've waited so long to take this class.
 
 Actually, I kind of lost interest in a lot of things while at home. It's really nice to be near campus meeting new people and all that. :) Hopefully I can regain some if not all of my enjoyment for coding now that we're back.
 
-#### I still like some things
+## I still like some things
 Some (but not all) of the things I still enjoy are:
 - watching [football](note1.md) (the not-American kind).
 - watching football analysis videos from [Tifo Football](https://www.youtube.com/channel/UCGYYNGmyhZ_kwBF_lqqXdAQ) and Jordan Klepper videos like [this one](https://www.youtube.com/watch?v=I6H7urz-HgA). 
@@ -44,7 +44,7 @@ Speaking of, my 5 favorite sitcoms are:
 4. Seinfeld
 5. Brooklyn Nine-Nine
 
-#### Some things I want to try during this quarter:
+## Some things I want to try during this quarter:
 - [x] learn to ride a skateboard
 - [x] learn to ride a onewheel
 - [ ] make my own kombucha and beer
