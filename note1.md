@@ -1,0 +1,1 @@
+I supported Man City before I knew what sportswashing was, and now I'm pretty conflicted. I follow most of the big European leagues and Liga MX. In France I support Reims, in Italy Atalanta, and in Germany Dortmund.

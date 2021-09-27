@@ -1,0 +1,1 @@
+Good movies are obviously enjoyable, but since I'm just now watching movies with friends again I like the kinda where people feel comfortable talking over them and making jokes. Also some bad movies are so spectacularly bad they're entertaining. 
