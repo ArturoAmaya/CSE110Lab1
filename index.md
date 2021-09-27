@@ -1,6 +1,13 @@
 # Hi! 
 I'm Arturo Amaya. I'm 21. I'm a Computer Engineering major here at UCSD. 
 
+In this doc:
+- [Hi!](#hi)
+  - [Have a free cat picture first:](#have-a-free-cat-picture-first)
+  - [A little about me:](#a-little-about-me)
+  - [I still like some things](#i-still-like-some-things)
+  - [Some things I want to try during this quarter:](#some-things-i-want-to-try-during-this-quarter)
+
 ## Have a free cat picture first:
 This is a picture of my cat:
 
