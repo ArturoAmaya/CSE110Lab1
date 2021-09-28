@@ -1,4 +1,4 @@
 # CSE110Lab1
-Like it says in the title:
+[I never merged, so the .gitignore isn't in main or add-read-me branches and the readmes are different]
 
 https://arturoamaya.github.io/CSE110Lab1/
